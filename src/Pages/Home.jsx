@@ -71,6 +71,9 @@ export const Home = () => {
   return (
     <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       <StarBackground />
+      <div className="fixed top-5 right-5 z-50 cursor-pointer">
+       <ThemeToggle />
+      </div>
       <ThemeToggle />
       <Navbar /> 
 
