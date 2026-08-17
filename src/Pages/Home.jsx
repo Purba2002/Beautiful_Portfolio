@@ -357,7 +357,7 @@ export const Home = () => {
                 <h3 className="text-xl font-bold mt-10 mb-4">Connect With Me</h3>
                 <div className="flex gap-4">
                   <a href="https://github.com/Purba2002" target="_blank" className="p-3 rounded-full border-border hover:bg-primary hover:text-primary-foreground">GitHub</a>
-                  <a href="https://linkedin.com/in/your-linkedin" target="_blank" className="p-3 rounded-full border border-border hover:bg-primary hover:text-primary-foreground">LinkedIn</a> {/* <-- yahan border add kiya */}
+                  <a href="https://www.linkedin.com/in/purba-mondal-235a67337/" target="_blank" className="p-3 rounded-full border border-border hover:bg-primary hover:text-primary-foreground">LinkedIn</a> {/* <-- yahan border add kiya */}
                 </div>
               </div>
 
